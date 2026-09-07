@@ -17,7 +17,12 @@ export default function Pricing() {
           </p>
         </div>
 
-        <div className="mx-auto mt-12 max-w-lg rounded-3xl border-2 border-orange-500 bg-white p-8 shadow-xl dark:bg-slate-900">
+        <div className="relative mx-auto mt-12 max-w-lg rounded-3xl border-2 border-orange-500 bg-white p-8 shadow-xl dark:bg-slate-900">
+          {/* HOT PROMO */}
+          <div className="absolute -left-1 -top-4 rounded-r-lg bg-red-600 px-4 py-2 text-sm font-black uppercase tracking-wide text-white shadow-md">
+            🔥 HOT PROMO
+          </div>
+
           <div className="text-center">
             <p className="text-lg font-bold text-slate-700 dark:text-slate-200">
               Website Sederhana
@@ -28,7 +33,7 @@ export default function Pricing() {
             </div>
 
             <p className="mt-2 text-sm text-slate-500 dark:text-slate-400">
-              Sekali bayar
+              Aktif seumur hidup
             </p>
           </div>
 
@@ -36,8 +41,8 @@ export default function Pricing() {
 
           <ul className="space-y-4 text-slate-700 dark:text-slate-200">
             <li>✓ Website modern dan profesional</li>
-            <li>✓ Responsive di HP, tablet, dan desktop</li>
-            <li>✓ WhatsApp contact button</li>
+            <li>✓ Responsive di mobile, tablet, dan desktop</li>
+            <li>✓ Tombol kontak WhatsApp</li>
             <li>✓ Basic SEO</li>
             <li>✓ Deployment / website online</li>
             <li>✓ Source code</li>
@@ -47,9 +52,9 @@ export default function Pricing() {
 
           <a
             href="https://wa.me/6282213114640?text=Halo%20kak%2C%20saya%20mau%20tanya%20tentang%20jasa%20pembuatan%20website"
-            className="mt-8 block rounded-xl bg-[#25D366] px-6 py-4 text-center font-bold text-white transition hover:bg-[#128C7E]"
+            className="cta-shake mt-8 block rounded-xl bg-[#25D366] px-6 py-4 text-center font-bold text-white shadow-lg transition hover:scale-105 hover:bg-[#128C7E]"
           >
-            Pesan Website Sekarang
+            🚀 Pesan Website Sekarang
           </a>
         </div>
 

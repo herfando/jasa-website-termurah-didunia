@@ -17,7 +17,12 @@ export default function Pricing() {
           </p>
         </div>
 
-        <div className="mx-auto mt-12 max-w-lg rounded-3xl border-2 border-orange-500 bg-white p-8 shadow-xl dark:bg-slate-900">
+        <div className="relative mx-auto mt-12 max-w-lg rounded-3xl border-2 border-orange-500 bg-white p-8 shadow-xl dark:bg-slate-900">
+          {/* HOT PROMO */}
+          <div className="absolute -left-1 -top-4 rounded-r-lg bg-red-600 px-4 py-2 text-sm font-black uppercase tracking-wide text-white shadow-md">
+            🔥 HOT PROMO
+          </div>
+
           <div className="text-center">
             <p className="text-lg font-bold text-slate-700 dark:text-slate-200">
               Simple Website
@@ -47,9 +52,9 @@ export default function Pricing() {
 
           <a
             href="https://wa.me/6282213114640?text=Hi%2C%20I%27d%20like%20to%20ask%20about%20your%20website%20development%20service."
-            className="mt-8 block rounded-xl bg-[#25D366] px-6 py-4 text-center font-bold text-white transition hover:bg-[#128C7E]"
+            className="cta-shake mt-8 block rounded-xl bg-[#25D366] px-6 py-4 text-center font-bold text-white shadow-lg transition hover:scale-105 hover:bg-[#128C7E]"
           >
-            Order Your Website
+            🚀 Order Your Website Now
           </a>
         </div>
 
