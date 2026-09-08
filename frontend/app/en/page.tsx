@@ -9,9 +9,9 @@ import CTA from "@/components/en/CTA";
 import Footer from "@/components/en/Footer";
 
 export const metadata: Metadata = {
-  title: "Website Development $79 | Lifetime Active Website | Web500K",
+  title: "Website Development",
   description:
-    "Professional website development for just $79. Your website stays active for life — fast, responsive, mobile-friendly, and ready to go online. Perfect for businesses, small businesses, and professionals.",
+    "Professional website development for just $79. Your website stays active for life — fast, responsive, mobile-friendly, and ready to go online. Perfect for companies, government agencies, healthcare and educational institutions, schools, universities, small and large businesses, personal websites, and professionals.",
   alternates: {
     canonical: "/en",
     languages: {

@@ -9,9 +9,9 @@ import CTA from "@/components/id/CTA";
 import Footer from "@/components/id/Footer";
 
 export const metadata: Metadata = {
-  title: "Jasa Pembuatan Website Rp500.000 | Aktif Seumur Hidup",
+  title: "Jasa Pembuatan Website",
   description:
-    "Jasa pembuatan website profesional cuma Rp500.000. Website aktif seumur hidup, cepat, responsive, mobile-friendly, dan siap online. Cocok untuk bisnis, UMKM, dan profesional.",
+    "Jasa pembuatan website murah cuma Rp500.000. Website aktif seumur hidup, cepat, responsive, mobile-friendly, dan siap online. Cocok untuk perusahaan, instansi pemerintahan, lembaga kesehatan dan pendidikan, sekolah, kampus, UMKM, usaha besar, maupun website pribadi dan profesional.",
   alternates: {
     canonical: "/id",
     languages: {
