@@ -47,8 +47,8 @@ export default function Features() {
           </h2>
 
           <p className="mt-4 text-slate-600 dark:text-slate-300">
-            Jasa pembuatan website dengan proses sederhana, pengerjaan cepat,
-            dan harga yang transparan.
+            Jasa pembuatan website standar profesional, pengerjaan cepat, dan
+            harga yang transparan.
           </p>
         </div>
 
