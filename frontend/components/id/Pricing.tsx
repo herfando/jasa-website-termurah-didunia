@@ -26,7 +26,7 @@ export default function Pricing() {
 
           <div className="text-center">
             <p className="text-lg font-bold text-slate-700 dark:text-slate-200">
-              website Standar Profesional
+              Website Standar Profesional
             </p>
 
             <div className="mt-4 text-5xl font-black text-slate-900 dark:text-white">
@@ -60,9 +60,9 @@ export default function Pricing() {
         </div>
 
         <p className="mx-auto mt-8 max-w-2xl text-center text-sm leading-6 text-slate-500 dark:text-slate-400">
-          Harga Rp500.000 berlaku untuk website sederhana. Website dengan fitur
-          kompleks seperti login, database, payment gateway, marketplace, atau
-          sistem custom akan dihitung berdasarkan kebutuhan.
+          Harga Rp500.000 berlaku untuk website standar profesional. Website
+          dengan fitur kompleks seperti login, database, payment gateway,
+          marketplace, atau sistem custom akan dihitung berdasarkan kebutuhan.
         </p>
       </div>
     </section>
