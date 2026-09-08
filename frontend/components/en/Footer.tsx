@@ -9,7 +9,7 @@ export default function Footer() {
             </div>
 
             <p className="mt-2 text-sm text-slate-400">
-              Professional, fast, and affordable website services.
+              Professional, fast, and affordable website development services.
             </p>
           </div>
 

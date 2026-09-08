@@ -7,7 +7,7 @@ export default function Hero() {
         </div>
 
         <h1 className="max-w-4xl text-4xl font-black leading-tight tracking-tight text-slate-900 dark:text-white sm:text-5xl md:text-6xl">
-          Professional Website
+          Website Development
         </h1>
 
         <div className="mt-5 flex flex-col items-center">
@@ -31,8 +31,8 @@ export default function Hero() {
         <p className="mt-6 max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-300">
           Have a business but no website yet?
           <br />
-          We help you build a modern, fast, responsive website that is ready to
-          go online.
+          We provide professional website development that is modern, fast,
+          responsive, and ready to go online.
         </p>
 
         <div className="mt-8 flex flex-col gap-4 sm:flex-row">

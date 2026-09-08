@@ -7,7 +7,7 @@ export default function Hero() {
         </div>
 
         <h1 className="max-w-4xl text-4xl font-black leading-tight tracking-tight text-slate-900 dark:text-white sm:text-5xl md:text-6xl">
-          Website Profesional
+          Jasa Pembuatan Website
         </h1>
 
         <div className="mt-5 flex flex-col items-center">

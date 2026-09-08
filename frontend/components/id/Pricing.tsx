@@ -8,7 +8,7 @@ export default function Pricing() {
           </span>
 
           <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-900 dark:text-white sm:text-4xl">
-            Website Profesional
+            Jasa Pembuatan Website
             <span className="block text-orange-500">Rp500.000</span>
           </h2>
 

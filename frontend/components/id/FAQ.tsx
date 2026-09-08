@@ -41,7 +41,7 @@ export default function FAQ() {
           </span>
 
           <h2 className="mt-3 text-3xl font-black text-slate-900 dark:text-white sm:text-4xl">
-            Pertanyaan yang Sering Ditanyakan
+            Jasa Pembuatan Website
           </h2>
 
           <p className="mt-4 text-slate-600 dark:text-slate-300">

@@ -9,7 +9,7 @@ export default function Footer() {
             </div>
 
             <p className="mt-2 text-sm text-slate-400">
-              Jasa website profesional, cepat, dan terjangkau.
+              Jasa pembuatan website profesional, cepat, dan terjangkau.
             </p>
           </div>
 

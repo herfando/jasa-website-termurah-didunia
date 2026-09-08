@@ -75,7 +75,7 @@ export default function Navbar() {
           {/* Mobile */}
           <div className="flex items-center gap-3 md:hidden">
             <span className="rounded-md bg-blue-50 px-2 py-1 text-sm dark:bg-blue-950">
-              🇺🇸
+              en
             </span>
 
             {mounted && (

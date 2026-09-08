@@ -43,12 +43,12 @@ export default function Features() {
       <div className="mx-auto max-w-7xl px-6">
         <div className="mx-auto max-w-2xl text-center">
           <h2 className="text-3xl font-black tracking-tight text-slate-900 dark:text-white sm:text-4xl">
-            Kenapa Pilih Kami?
+            Kenapa Pilih Jasa Pembuatan Website Kami?
           </h2>
 
           <p className="mt-4 text-slate-600 dark:text-slate-300">
-            Website profesional dengan proses sederhana, cepat, dan harga yang
-            masuk akal.
+            Jasa pembuatan website dengan proses sederhana, pengerjaan cepat,
+            dan harga yang transparan.
           </p>
         </div>
 

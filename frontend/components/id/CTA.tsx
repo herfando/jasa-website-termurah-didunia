@@ -3,7 +3,7 @@ export default function CTA() {
     <section className="bg-blue-600 py-20 dark:bg-blue-700">
       <div className="mx-auto max-w-4xl px-6 text-center">
         <h2 className="text-3xl font-black text-white sm:text-4xl">
-          Punya Bisnis? Saatnya Punya Website.
+          Butuh Jasa Pembuatan Website?
         </h2>
 
         <p className="mx-auto mt-5 max-w-2xl text-lg leading-8 text-blue-50">

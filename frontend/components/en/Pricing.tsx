@@ -8,7 +8,7 @@ export default function Pricing() {
           </span>
 
           <h2 className="mt-3 text-3xl font-black tracking-tight text-slate-900 dark:text-white sm:text-4xl">
-            Professional Website
+            Website Development
             <span className="block text-orange-500">$79</span>
           </h2>
 
