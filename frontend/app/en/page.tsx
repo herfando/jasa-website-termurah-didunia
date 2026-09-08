@@ -12,6 +12,13 @@ export const metadata: Metadata = {
   title: "Website Development $79 | Lifetime Active Website | Web500K",
   description:
     "Professional website development for just $79. Your website stays active for life — fast, responsive, mobile-friendly, and ready to go online. Perfect for businesses, small businesses, and professionals.",
+  alternates: {
+    canonical: "/en",
+    languages: {
+      id: "/id",
+      en: "/en",
+    },
+  },
 };
 
 export default function EnglishPage() {
