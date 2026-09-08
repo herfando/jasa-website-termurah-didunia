@@ -16,6 +16,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Web500K",
   description: "Professional website development service.",
+  verification: {
+    google: "3B9tXznq0AFkp9YgVUW1A-wY5tsNgkGZaYTNkZXBsnA",
+  },
 };
 
 export default function RootLayout({
