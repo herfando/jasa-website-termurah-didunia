@@ -20,7 +20,7 @@ export default function Hero() {
           </span>
 
           <span className="mt-5 text-base font-bold text-orange-600 dark:text-orange-400 sm:text-lg">
-            Harga Saat Promo
+            HARGA PROMO
           </span>
 
           <span className="mt-1 text-3xl font-black italic text-orange-500 sm:text-6xl">
