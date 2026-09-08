@@ -95,7 +95,7 @@ export default function Portfolio() {
   ];
 
   return (
-    <section id="portfolio" className="bg-slate-50 py-20 dark:bg-slate-900">
+    <section id="portfolio" className="bg-slate-50 py-20 dark:bg-black">
       <div className="mx-auto max-w-7xl px-6">
         <div className="mx-auto max-w-2xl text-center">
           <span className="text-sm font-bold uppercase tracking-wider text-blue-600 dark:text-blue-400">

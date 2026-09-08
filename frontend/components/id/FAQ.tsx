@@ -33,7 +33,7 @@ export default function FAQ() {
   ];
 
   return (
-    <section id="faq" className="bg-white py-20 dark:bg-slate-950">
+    <section id="faq" className="bg-white py-20 dark:bg-black">
       <div className="mx-auto max-w-3xl px-6">
         <div className="text-center">
           <span className="text-sm font-bold uppercase tracking-wider text-blue-600 dark:text-blue-400">

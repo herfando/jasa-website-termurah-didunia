@@ -1,6 +1,6 @@
 export default function Hero() {
   return (
-    <section className="bg-white dark:bg-slate-950">
+    <section className="bg-white dark:bg-black">
       <div className="mx-auto flex max-w-7xl flex-col items-center px-6 py-20 text-center md:py-28">
         <div className="mb-6 animate-[wiggle_1.5s_ease-in-out_infinite] text-xl font-black tracking-tight sm:text-4xl border bg-red-700 text-white px-4 py-2 rounded-lg">
           🔥 LAUNCHING PROMO 🔥

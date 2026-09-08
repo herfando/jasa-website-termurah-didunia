@@ -1,6 +1,6 @@
 export default function Pricing() {
   return (
-    <section id="harga" className="bg-white py-20 dark:bg-slate-950">
+    <section id="harga" className="bg-white py-20 dark:bg-black">
       <div className="mx-auto max-w-7xl px-6">
         <div className="mx-auto max-w-2xl text-center">
           <span className="text-sm font-bold uppercase tracking-wider text-blue-600 dark:text-blue-400">
