@@ -13,7 +13,8 @@ export default function Pricing() {
           </h2>
 
           <p className="mt-4 text-slate-600 dark:text-slate-300">
-            Harga nyata untuk website sederhana. Bukan harga pancingan.
+            Harga nyata untuk website standar profesional. Bukan harga
+            pancingan.
           </p>
         </div>
 
@@ -25,7 +26,7 @@ export default function Pricing() {
 
           <div className="text-center">
             <p className="text-lg font-bold text-slate-700 dark:text-slate-200">
-              Website Sederhana
+              website Standar Profesional
             </p>
 
             <div className="mt-4 text-5xl font-black text-slate-900 dark:text-white">
