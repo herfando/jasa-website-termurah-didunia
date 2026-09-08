@@ -13,7 +13,7 @@ export default function Pricing() {
           </h2>
 
           <p className="mt-4 text-slate-600 dark:text-slate-300">
-            Real pricing for a simple website. No bait pricing.
+            Real pricing for a professional standard website. No bait pricing.
           </p>
         </div>
 
@@ -25,7 +25,7 @@ export default function Pricing() {
 
           <div className="text-center">
             <p className="text-lg font-bold text-slate-700 dark:text-slate-200">
-              Simple Website
+              Professional Standard Website
             </p>
 
             <div className="mt-4 text-5xl font-black text-slate-900 dark:text-white">
@@ -59,9 +59,10 @@ export default function Pricing() {
         </div>
 
         <p className="mx-auto mt-8 max-w-2xl text-center text-sm leading-6 text-slate-500 dark:text-slate-400">
-          The $79 price applies to simple websites. Websites with complex
-          features such as login, database, payment gateway, marketplace, or
-          custom systems will be priced based on the requirements.
+          The $79 price applies to professional standard website. Websites with
+          complex features such as login, database, payment gateway,
+          marketplace, or custom systems will be priced based on the
+          requirements.
         </p>
       </div>
     </section>
