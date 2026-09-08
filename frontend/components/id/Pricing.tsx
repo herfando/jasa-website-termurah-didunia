@@ -40,14 +40,14 @@ export default function Pricing() {
           <div className="my-8 h-px bg-slate-300 dark:bg-slate-800" />
 
           <ul className="space-y-4 text-slate-700 dark:text-slate-200">
-            <li>✓ Website modern dan profesional</li>
-            <li>✓ Responsive di mobile, tablet, dan desktop</li>
-            <li>✓ Tombol kontak WhatsApp</li>
-            <li>✓ Basic SEO</li>
-            <li>✓ Deployment / website online</li>
-            <li>✓ Source code</li>
+            <li>✓ Website keren, modern & profesional</li>
+            <li>✓ Tampil sempurna di HP, tablet & desktop</li>
+            <li>✓ Siap online & mudah digunakan</li>
             <li>✓ Pengerjaan cepat</li>
-            <li>✓ Revisi sampai puas</li>
+            <li>✓ Tanpa biaya bulanan</li>
+            <li>✓ Aktif seumur hidup</li>
+            <li>✓ No Ribet</li>
+            <li>✓ Harga Fix Rp500.000</li>
           </ul>
 
           <a

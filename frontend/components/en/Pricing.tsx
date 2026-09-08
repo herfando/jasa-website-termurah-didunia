@@ -40,14 +40,14 @@ export default function Pricing() {
           <div className="my-8 h-px bg-slate-300 dark:bg-slate-800" />
 
           <ul className="space-y-4 text-slate-700 dark:text-slate-200">
-            <li>✓ Modern and professional website</li>
-            <li>✓ Responsive on mobile, tablet, and desktop</li>
-            <li>✓ WhatsApp contact button</li>
-            <li>✓ Basic SEO</li>
-            <li>✓ Deployment / website online</li>
-            <li>✓ Source code</li>
+            <li>✓ Cool, modern & professional website</li>
+            <li>✓ Perfect on mobile, tablet & desktop</li>
+            <li>✓ Ready to go online & easy to use</li>
             <li>✓ Fast delivery</li>
-            <li>✓ Revisions until satisfied</li>
+            <li>✓ No monthly fees</li>
+            <li>✓ Active for life</li>
+            <li>✓ No hassle</li>
+            <li>✓ Fixed Price $79</li>
           </ul>
 
           <a
