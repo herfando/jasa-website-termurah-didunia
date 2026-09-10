@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Web500K",
-  description: "Professional website development service.",
+  description: "Jasa pembuatan website murah dan berkualitas.",
   verification: {
     google: "3B9tXznq0AFkp9YgVUW1A-wY5tsNgkGZaYTNkZXBsnA",
   },
@@ -31,6 +31,19 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} min-h-full antialiased`}
       >
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Jasa Pembuatan Website Murah dan Berkualitas",
+              alternateName: "Web500K",
+              url: "https://jasa-website-termurah-didunia.vercel.app",
+            }),
+          }}
+        />
+
         <ThemeProvider>{children}</ThemeProvider>
       </body>
     </html>

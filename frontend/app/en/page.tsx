@@ -9,9 +9,9 @@ import CTA from "@/components/en/CTA";
 import Footer from "@/components/en/Footer";
 
 export const metadata: Metadata = {
-  title: "Website Development",
+  title: "The World's Cheapest Website Service - PROMO $79 - NO HASSLE 🔥",
   description:
-    "Professional website development for just $79. Your website stays active for life — fast, responsive, mobile-friendly, and ready to go online. Perfect for companies, government agencies, healthcare and educational institutions, schools, universities, small and large businesses, personal websites, and professionals.",
+    "🔥 HOT PROMO! Website for only $79, hassle-free and all-in. Pay just once, no monthly fees, and your website stays active for life.",
   alternates: {
     canonical: "/en",
     languages: {
